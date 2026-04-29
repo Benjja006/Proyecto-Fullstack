@@ -6,6 +6,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/GarzonPro/pom.xml" />
+        <option value="$PROJECT_DIR$/Auth-Service-Accesos/pom.xml" />
+        <option value="$PROJECT_DIR$/Catalog Service (Menú)/pom.xml" />
+        <option value="$PROJECT_DIR$/Order-Service-Comandas/pom.xml" />
+        <option value="$PROJECT_DIR$/Payment-Service-Cuentas/pom.xml" />
+        <option value="$PROJECT_DIR$/Status-Service-Notificaciones/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Service-Personal/pom.xml" />
       </list>
     </option>
   </component>
