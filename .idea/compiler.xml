@@ -10,6 +10,7 @@
         <module name="ms-microservicio1" />
         <module name="mi-microservicio1 (7)" />
         <module name="mi-microservicio1 (6)" />
+        <module name="mi-microservicio1 (9)" />
         <module name="mi-microservicio1 (8)" />
         <module name="mi-microservicio1 (3)" />
         <module name="mi-microservicio1" />
@@ -21,6 +22,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mi-microservicio1 (1)" options="-parameters" />
+      <module name="mi-microservicio1 (2)" options="-parameters" />
+      <module name="mi-microservicio1 (6)" options="-parameters" />
+      <module name="mi-microservicio1 (9)" options="-parameters" />
       <module name="ms-microservicio1" options="-parameters" />
     </option>
   </component>

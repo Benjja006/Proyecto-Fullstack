@@ -1,4 +1,4 @@
-package com.ProyectoRestaurant.inventory.Service.stok;
+package com.ProyectoRestaurant.inventory.Service.stock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
